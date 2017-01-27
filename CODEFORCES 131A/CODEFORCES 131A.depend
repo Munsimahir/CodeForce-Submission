@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1466760089 source:c:\users\blackrattle\desktop\codeforces 131a\main.cpp
+	<string>
+	<cctype>
+	<bits/stdc++.h>
+
